@@ -11,8 +11,8 @@ export default function App() {
       <Weather/>
 
     <footer>
-      This project was coded by <a href='https://www.matildahnkambule.com' target='_blank'>Matildah Nkambule</a> and is {""}
-        <a href='https://github.com/Matildah81/react-weather-app' target='_blank'>Open-Sourced on Gitub</a>
+      This project was coded by <a href='https://www.matildahnkambule.com' target='_blank' rel="noopener noreferrer">Matildah Nkambule</a> and is {""}
+        <a href='https://github.com/Matildah81/react-weather-app' target='_blank' rel="noopener noreferrer">Open-Sourced on Gitub</a>
       
     </footer>
      </div>
