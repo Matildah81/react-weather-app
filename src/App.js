@@ -8,7 +8,7 @@ export default function App() {
       <div className='container'>
 
       
-      <Weather/>
+      <Weather defaultcity="New York"/>
 
     <footer>
       This project was coded by <a href='https://www.matildahnkambule.com' target='_blank' rel="noopener noreferrer">Matildah Nkambule</a> and is {""}
